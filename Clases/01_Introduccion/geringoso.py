@@ -11,3 +11,13 @@ for letra in palabra:
         nueva_palabra += letra
 
 print(nueva_palabra)
+
+'''
+OUTPUTS:
+- apa
+- apapapa
+
+- boligoma
+- bopolipigopomapa
+
+'''

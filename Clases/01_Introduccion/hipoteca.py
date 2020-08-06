@@ -44,3 +44,16 @@ while saldo > 0:
 
 print('Total pagado:',round(total_pagado,2))
 print('Meses:',meses)
+
+'''
+OUTPUTS:
+1 2684.11 499399.22
+2 5368.22 498795.94
+3 8052.33 498190.15
+...
+308 874705.88 3478.83
+309 877389.99 809.21
+310 878199.2 0
+Total pagado: 878199.2
+Meses: 310
+'''
