@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-* [1. Introducción a Python](Clases/01_Introduccion/README.md)
+* [1. Introducción a Python](Clases/01_Introduccion/)
 * [2. Trabajando con datos]
 * [3. Comprensión, NumPy y figuritas.]
 * [4. Organzación de programas]
