@@ -1,4 +1,5 @@
 import csv
+import sys
 
 def costo_camion(nombre_archivo):
     '''Lectura de archivo'''
@@ -21,6 +22,12 @@ def costo_camion(nombre_archivo):
 
     return suma
 
+'''Verificamos input'''
+if len(sys.argv) == 2:
+    nombre_archivo = sys.argv[1]
+else:
+    nombre_archivo = 'Data/camion.csv'
+
 '''Imprimimos resultado'''
-cost = costo_camion('Data/camion.csv')
+cost = costo_camion(nombre_archivo)
 print('Total cost:', cost)

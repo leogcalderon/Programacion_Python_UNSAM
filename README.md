@@ -3,7 +3,7 @@
 ## Contenidos
 
 * [1. Introducción a Python](Clases/01_Introduccion/)
-* [2. Trabajando con datos]
+* [2. Trabajando con datos](Clases/02_Datos/)
 * [3. Comprensión, NumPy y figuritas.]
 * [4. Organzación de programas]
 * [5. Errores y bugs, especificación y documentación]
@@ -26,5 +26,4 @@ Python y algunos conceptos del diseño de algoritmos. El curso está orientado a
 ## Docentes
 El curso lo dictan dos profesores de la ECyT-UNSAM que son también
 investigadores del CONICET: [Oscar Filevich](http://labning.com.ar/#nosotros) es Lic. en Biología,
-Dr. en Química y trabaja en neurofisiología; [Rafael Grimson](http://investigadores.unsam.edu.ar/es/investigador/407/Grimson-Rafael) es Lic. en Matemática,
-Dr. en Computación y trabaja en temas ambientales.
+Dr. en Química y trabaja en neurofisiología; [Rafael Grimson](http://investigadores.unsam.edu.ar/es/investigador/407/Grimson-Rafael) es Lic. en Matemática, Dr. en Computación y trabaja en temas ambientales.

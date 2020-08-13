@@ -7,33 +7,14 @@ Discutimos el problema de la búsqueda de un elemento en un vector e introducimo
 ### Ejercicio 2.8 (camion_commandline.py)
 
         1. Escribí un programa llamado costo_camion.py que abra el archivo, lea las líneas, y calcule el precio pagado por los cajones cargados en el camión. Output: ```Costo total 47671.15```
-        
+
         2. Transformá el programa costo_camion.py en una función costo_camion(nombre_archivo). Esta función recibe un nombre de archivo como entrada, lee la información sobre los cajones que cargó el camión y devuelve el costo de la carga de frutas como una variable de punto flotante. Output: ```47671.15```
 
         3. ¿Qué pasa si intentás usar la función costo_camion() con un archivo que tiene datos faltantes? Modificá el programa costo_camion.py para que atrape la excepción, imprima un mensaje de aviso (warning) y continúe procesando el resto del archivo.
 
         4. Modificá tu programa costo_camion.py para que use el módulo csv para leer los archivos CSV.
 
-        5. Copiá el contenido de costo_camion.py a un nuevo archivo llamado camion_commandline.py que incorpore la lectura de parámetros por línea de comando según la sugerencia del siguiente ejemplo:
-
-        ```python
-
-        import csv
-        import sys
-
-        def costo_camion(nombre_archivo):
-            ...
-            # Tu código
-            ...
-
-        if len(sys.argv) == 2:
-            nombre_archivo = sys.argv[1]
-        else:
-            nombre_archivo = 'Data/camion.csv'
-
-        costo = costo_camion(nombre_archivo)
-        print('Costo total:', costo)
-        ```
+        5. Copiá el contenido de costo_camion.py a un nuevo archivo llamado camion_commandline.py que incorpore la lectura de parámetros por línea de comando.
 
 ### Ejercicio 2.15 (informe.py)
 
