@@ -4,8 +4,8 @@
 
 * [1. Introducción a Python](Clases/01_Introduccion/)
 * [2. Trabajando con datos](Clases/02_Datos/)
-* [3. Comprensión, NumPy y figuritas.]
-* [4. Organzación de programas]
+* [3. Algoritmos sobre listas y comprensión de listas.](Clases/03_Listas/)
+* [4. Organización de programas]
 * [5. Errores y bugs, especificación y documentación]
 * [6. Creación de módulos, SO y Pandas]
 * [7. Clases y Objetos]
