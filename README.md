@@ -5,13 +5,12 @@
 * [1. Introducción a Python](Clases/01_Introduccion/)
 * [2. Trabajando con datos](Clases/02_Datos/)
 * [3. Algoritmos sobre listas y comprensión de listas.](Clases/03_Listas/)
-* [4. Organización de programas](Clases/04_Random_Plt_Dbg/)
-* [5. Errores y bugs, especificación y documentación]
+* [4. Random, debbuging](Clases/04_Random_Plt_Dbg/)
+* [5. Complejidad y documentación](Clases/05_Organización_y_Complejidad/)
 * [6. Creación de módulos, SO y Pandas]
 * [7. Clases y Objetos]
 * [8. Optativos]
 * [9. Versiones Viejas]
-
 
 Este es un curso que se estará dictando en la [UNSAM](https://www.unsam.edu.ar/) en el marco del proyecto [IAI](http://noticias.unsam.edu.ar/2019/09/16/la-unsam-piensa-la-inteligencia-artificial-interdisciplinaria/) durante el segundo cuatrimestre del 2020.
 
