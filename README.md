@@ -7,7 +7,7 @@
 * [3. Algoritmos sobre listas y comprensión de listas.](Clases/03_Listas/)
 * [4. Random, debbuging](Clases/04_Random_Plt_Dbg/)
 * [5. Complejidad y documentación](Clases/05_Organización_y_Complejidad/)
-* [6. Creación de módulos, SO y Pandas]
+* [6. Diseño, especificación, documentación y estilo](Clases/06_Diseño_especificación_documentación_estilo/)
 * [7. Clases y Objetos]
 * [8. Optativos]
 * [9. Versiones Viejas]
