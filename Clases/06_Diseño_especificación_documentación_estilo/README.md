@@ -41,6 +41,12 @@ Finalmente, daremos un poco más sistemáticamente algunos conceptos de la bibli
           - Detectá si hay invariantes de ciclo y comentalo al final de la función
 
 
-### Ejercicio 5.9 (costo_camion.py)
+### Ejercicio 6.10 (random_walk.py)
 
-        1.
+        1. - Modificá el código de random walks para ponerles nombres a los ejes ("tiempo" y distancia al origen") y al gráfico.
+           - Graficá 12 trayectorias en la misma figura, con diferentes colores.
+           - Usá la estructura de subplots sugerida en el Ejercicio 6.9 para graficar tres pubplots en una figura:
+               - Arriba, grande, 12 trayectorias aleatorias como en el inciso anterior
+               - Abajo a la izquierda la trayectoria que más se aleja del origen.
+               - Abajo a la derecha la trayectoria que menos se aleja del origen.
+
