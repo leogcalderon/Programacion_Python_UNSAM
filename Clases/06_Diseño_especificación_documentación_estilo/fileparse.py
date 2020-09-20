@@ -12,11 +12,11 @@ def parse_csv(lines, select = None, types = None, has_headers = True, silence_er
 
 
     if not silence_errors:
-        '''Manejo de excepcion 1'''
+        #Manejo de excepcion 1
         if not has_headers and select:
             raise RuntimeError("Para seleccionar, necesito encabezados.")
 
-    '''Duck taping'''
+    #Duck taping
     rows = []
     for row in lines:
         if row.endswith('\n'):
@@ -38,11 +38,12 @@ def parse_csv(lines, select = None, types = None, has_headers = True, silence_er
 
         for i,row in enumerate(rows[1:]):
 
-            '''Manejo de excepcion 2'''
+            #Manejo de excepcion 2
             try:
                 if not row:    # Saltea filas sin datos
                     continue
 
+                #Duck taping
                 row = row.split(',')
 
                 if idx:        # Si hay indices seleccionados
@@ -66,6 +67,10 @@ def parse_csv(lines, select = None, types = None, has_headers = True, silence_er
         for row in rows:
             if not row:
                 continue
+
+            #Duck taping
+            row = row.split(',')
+
             if types:
                 row = [func(val) for func,val in zip(types,row)]
 

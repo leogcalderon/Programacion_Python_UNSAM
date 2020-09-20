@@ -3,13 +3,19 @@ import sys
 
 def leer_camion(nombre_archivo):
     '''Lectura de archivo'''
-    camion = parse_csv(nombre_archivo, select=['nombre','cajones','precio'], types=[str,int,float])
+    lines = open(nombre_archivo)
+    camion = parse_csv(lines, select=['nombre','cajones','precio'], types=[str,int,float])
+    lines.close()
+
     return camion
 
 def leer_precios(nombre_archivo):
     '''Lectura de archivo'''
-    precios = parse_csv('Data/precios.csv', types=[str,float], has_headers=False)
+    lines = open(nombre_archivo)
+    precios = parse_csv(lines, types=[str,float], has_headers=False)
     precios = {p[0]:p[1] for p in precios}
+    lines.close()
+
     return precios
 
 def main(archivo_camion,archivo_precios):
@@ -33,7 +39,6 @@ def main(archivo_camion,archivo_precios):
 
 
 if __name__ == '__main__':
-    import sys
     main(sys.argv[1], sys.argv[2])
 
 '''
