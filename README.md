@@ -8,9 +8,12 @@
 * [4. Random, debbuging](Clases/04_Random_Plt_Dbg/)
 * [5. Complejidad y documentación](Clases/05_Organización_y_Complejidad/)
 * [6. Diseño, especificación, documentación y estilo](Clases/06_Diseño_especificación_documentación_estilo/)
-* [7. Clases y Objetos]
-* [8. Optativos]
-* [9. Versiones Viejas]
+* [7. Fechas, carpetas y Pandas](Clases/07_Datetime_Pandas/)
+* [8. ]
+* [9. ]
+* [10. ]
+* [11. ]
+* [12. ]
 
 Este es un curso que se estará dictando en la [UNSAM](https://www.unsam.edu.ar/) en el marco del proyecto [IAI](http://noticias.unsam.edu.ar/2019/09/16/la-unsam-piensa-la-inteligencia-artificial-interdisciplinaria/) durante el segundo cuatrimestre del 2020.
 
