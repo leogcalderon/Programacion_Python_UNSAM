@@ -27,7 +27,7 @@ En esta clase vamos a meternos con la programación orientada a objetos. Vamos a
         Un método __str__ que devuelve una representación como cadena del objeto Canguro y de los contenidos de su marsupio.
         Probá tu código creando dos objetos, madre_canguro y cangurito y guardá en el marsupio de la madre algunos objetos y al cangurito.
 
-### Ejercicio 8.12 (.py)
+### Ejercicio 8.12 (torre_control.py)
 
         1. Una cola es una estructura de datos. Se caracteriza por contener una secuencia de elementos y dos operaciones: encolar y desencolar.
         La primera, encolar, agrega un elemento al final de la secuencia que contiene la cola. Desencolar, por su parte, devuelve el primer
