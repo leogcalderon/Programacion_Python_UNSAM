@@ -11,7 +11,7 @@
 * [7. Fechas, carpetas y Pandas](Clases/07_Datetime_Pandas/)
 * [8. Clases y objetos](Clases/08_Objetos/)
 * [9. Generadores](Clases/09_Generadores/)
-* [10. ]
+* [10. Recursión](Clases/10_Recursion/)
 * [11. ]
 * [12. ]
 
