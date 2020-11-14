@@ -13,7 +13,6 @@
 * [9. Generadores](Clases/09_Generadores/)
 * [10. Recursión](Clases/10_Recursion/)
 * [11. Ordenamiento](Clases/11_Ordenamiento)
-* [12. ]
 
 Este es un curso que se estará dictando en la [UNSAM](https://www.unsam.edu.ar/) en el marco del proyecto [IAI](http://noticias.unsam.edu.ar/2019/09/16/la-unsam-piensa-la-inteligencia-artificial-interdisciplinaria/) durante el segundo cuatrimestre del 2020.
 
